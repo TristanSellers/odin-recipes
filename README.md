@@ -1,2 +1,2 @@
 # odin-recipes
-A repo for my Odin Project assignments
+This is a project using HTML to create a website displaying various recipes.
